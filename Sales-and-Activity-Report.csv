@@ -1,0 +1,66 @@
+Report Name	Sales and Activity Report												
+Date Run	12/4/2017												
+Filters	Transaction Date >= 11/24/17	Transaction Date <= 11/30/17	Time Zone = GMT										
+													
+Publisher ID	Publisher Name	# of Impressions	# of Clicks	Click Through Rate (CTR)	# of Orders	Orders/Click	# of Items	# of Cancelled Items	# of Net Items	Net Items Per Order	Sales	Average Order Value	Total Commission
+3140732	Ebates Canada	0	"21,725"	0	"2,162"	9.952	"12,610"	11	"12,599"	5.827	"139,844.39"	64.683	"16,781.33"
+3005498	Honey	0	"1,171"	0	142	12.126	853	0	853	6.007	"10,477.06"	73.782	523.853
+3029977	RetailMeNot CA	0	591	0	127	21.489	753	0	753	5.929	"8,895.45"	70.043	444.773
+1851970	dealmoon.com	0	"6,045"	0	17	0.281	113	0	113	6.647	"2,461.92"	144.819	123.096
+2128561	Aeroplan eStore	0	182	0	36	19.78	220	0	220	6.111	"2,414.85"	67.079	120.743
+2969094	DontPayFull.com	0	129	0	28	21.705	157	0	157	5.607	"2,160.44"	77.159	108.022
+1083817	SHOP.COM	0	122	0	14	11.475	78	0	78	5.571	"1,972.94"	140.924	98.647
+2929249	Bargainmoose	0	400	0	26	6.5	130	0	130	5	"1,615.76"	62.145	80.788
+2937224	Swagbucks CA	0	72	0	15	20.833	95	0	95	6.333	"1,105.47"	73.698	55.274
+1683397	Great Canadian Rebates (A)	0	32	0	9	28.125	54	0	54	6	925.98	102.887	46.299
+1812918	DealGuild	0	13	0	7	53.846	46	0	46	6.571	849.9	121.414	42.495
+3130669	FlipGive	0	126	0	6	4.762	40	0	40	6.667	592.85	98.808	33.241
+2769531	CAA	0	18	0	5	27.778	32	0	32	6.4	452.89	90.578	22.645
+1643074	onlineshoppers	233	25	10.73	1	4	1	0	1	1	239.99	239.99	12
+1560091	Coupon Chief Inc.	0	34	0	7	20.588	58	0	58	8.286	239.41	34.201	11.971
+2619161	YieldKit - Global Publisher Network	0	206	0	4	1.942	22	0	22	5.5	187.25	46.813	9.363
+2783121	TopCashBack	0	3	0	2	66.667	12	0	12	6	179.99	89.995	9
+1635394	FlexOffers.com	0	151	0	1	0.662	6	0	6	6	135	135	6.75
+1776087	Smart Canucks	0	378	0	1	0.265	6	0	6	6	112	112	5.6
+2957654	MagicLinks	0	123	0	2	1.626	8	0	8	4	87	43.5	4.35
+2454844	VigLink	0	165	0	4	2.424	24	0	24	6	77.99	19.498	3.9
+3368752	AnyCodes (Flat Fees)	1	8	800	1	12.5	4	0	4	4	59.99	59.99	3
+1536241	RedFlagDeals.com - Canada	0	769	0	1	0.13	4	0	4	4	45	45	2.25
+3096156	Amikash Canada	0	69	0	2	2.899	10	0	10	5	42	21	2.1
+3079575	Surf4Coupons	0	9	0	1	11.111	4	0	4	4	28	28	1.4
+1872550	RetailMeNot	0	22	0	1	4.545	4	0	4	4	19	19	0.95
+2599585	Canadian Daily Deals	0	0	0	1	0	9	0	9	9	9.98	9.98	0.499
+3266840	icangwp	151	73	48.344	2	2.74	8	0	8	4	9.18	4.59	0.459
+1660848	Simply Best Coupons	0	2	0	0	0	0	0	0	0	0	0	0
+3359796	Enter Here Canada	8	0	0	0	0	0	0	0	0	0	0	0
+3366108	theFantasia.com	0	2	0	0	0	0	0	0	0	0	0	0
+3367072	HotDeals	0	18	0	0	0	0	0	0	0	0	0	0
+3235974	Jennybeaned	0	14	0	0	0	0	0	0	0	0	0	0
+112	sytedemo	0	7	0	0	0	0	0	0	0	0	0	0
+3290727	VERONIKA LIPAR	0	1	0	0	0	0	0	0	0	0	0	0
+3357850	Cosmetic Insomniac	406	4	0.985	0	0	0	0	0	0	0	0	0
+3409292	WonderDealz CA	0	2	0	0	0	0	0	0	0	0	0	0
+1357475	"Offers.com (Offers.com, LLC)"	0	15	0	0	0	0	0	0	0	0	0	0
+3379980	The Online Makeup Blog	"1,103"	3	0.272	0	0	0	0	0	0	0	0	0
+2644703	Discounts.Ca	0	33	0	0	0	0	0	0	0	0	0	0
+3317099	www.thevelvetlife.com	0	2	0	0	0	0	0	0	0	0	0	0
+3398834	Lipstick & Confetti	296	0	0	0	0	0	0	0	0	0	0	0
+3282489	Travelling Moi	53	0	0	0	0	0	0	0	0	0	0	0
+3362355	Quebecor	0	5	0	0	0	0	0	0	0	0	0	0
+3296800	Tea & Nail Polish	0	1	0	0	0	0	0	0	0	0	0	0
+3317079	Boots and Bassets	131	0	0	0	0	0	0	0	0	0	0	0
+3057521	Swatch & Review	0	1	0	0	0	0	0	0	0	0	0	0
+3209952	Beauty with AngelaBee	58	0	0	0	0	0	0	0	0	0	0	0
+2956207	MLLE SHOPPING	32	8	25	0	0	0	0	0	0	0	0	0
+2175421	PromoCodes.com	0	7	0	0	0	0	0	0	0	0	0	0
+3290723	Savingsecrets	0	2	0	0	0	0	0	0	0	0	0	0
+3158533	Canada Shopping Guide for Chinese	0	1	0	0	0	0	0	0	0	0	0	0
+3331069	CouponKlub	0	1	0	0	0	0	0	0	0	0	0	0
+2116208	Skimlinks.com	0	395	0	0	0	0	0	0	0	0	0	0
+3299116	My Life In Make Up	13	0	0	0	0	0	0	0	0	0	0	0
+3382849	The Beauty Edition	235	1	0.426	0	0	0	0	0	0	0	0	0
+2590483	theNotice: a beauty blog	0	3	0	0	0	0	0	0	0	0	0	0
+3444094	beauty-tips-and-tricks.com	1	0	0	0	0	0	0	0	0	0	0	0
+3388489	thebeautymovement.ca	0	8	0	0	0	0	0	0	0	0	0	0
+3385040	fabgifts.ca	0	1	0	0	0	0	0	0	0	0	0	0
+2255801	Be Frugal	0	2	0	0	0	0	0	0	0	0	0	0

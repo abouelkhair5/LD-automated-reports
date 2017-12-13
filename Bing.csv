@@ -1,0 +1,121 @@
+﻿"Campaign report (November 24, 2017 - November 30, 2017)"
+Request Id: b93a8a14-675d-8bc2-fd6a-0bacc1830091
+
+Campaign ID,Status,Campaign,Budget,Budget Type,Delivery,Campaign Type,Bid Strategy Type,Labels,Clicks,Impr.,CTR,Avg. CPC,Spend,Avg. pos.
+[141792681],Enabled,Branded - Core - BMM,50,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,63,149,42.28%,1.03,64.7,1.04
+[141792682],Enabled,Branded - Core - EXA,100,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,231,419,55.13%,0.81,187.61,1.02
+[141792683],Enabled,Branded - Core - PHR,50,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,201,318,63.21%,1.1,220.25,1.01
+[141792684],Enabled,Branded - French - EXA,60,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,5,12,41.67%,0.12,0.59,1
+[141792685],Enabled,Branded - French - PHR,40,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,4,12,33.33%,0.05,0.18,1
+[141792686],Paused,Branded - Generic - Products,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792687],Paused,Branded - Optimum - Points,130,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792688],Paused,Branded - Vendor - Brands,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792689],Paused,Non-Brand - BP - Benefit,15,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792690],Paused,Non-Brand - BP - Biotherm,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792691],Paused,Non-Brand - BP - Clarins,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792692],Paused,Non-Brand - BP - Dior,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792693],Paused,Non-Brand - BP - Dolce - Gabbana,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792694],Paused,Non-Brand - BP - Makeup,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792695],Paused,Non-Brand - BP - Philosophy,15,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792696],Paused,Non-Brand - BP - Shiseido,30,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792698],Paused,Non-Brand - Generic - Hands,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792699],Paused,Non-Brand - Generic - Makeup - Tools,15,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792700],Paused,Non-Brand-B - BP - Fragrance,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141792701],Paused,Non-Brand-E - BP - Fragrance,6.25,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141911618],Enabled,Branded - French - BMM,20,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,0,2,0%,0,0,1
+[141924517],Paused,Non-Brand - BP - Bioderma,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924518],Paused,Non-Brand - BP - Bourjois,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924520],Paused,Non-Brand - BP - CoverFX,20,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924521],Paused,Non-Brand - BP - Gucci,15,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924524],Paused,Non-Brand - BP - Korres,20,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924526],Paused,Non-Brand - BP - Nuxe,15,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924527],Paused,Non-Brand - BP - Purminerals,20,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924530],Paused,Non-Brand - BP - Lacoste,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924531],Paused,Non-Brand - BP - Clarisonic,25,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924532],Paused,Non-Brand - BP - Lancome,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924533],Paused,Non-Brand - BP - Stila,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924535],Paused,Non-Brand - BP - SilknEXA,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924539],Paused,Non-Brand - BP - Rodial,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924541],Paused,Non-Brand - BP - Clinique,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924543],Paused,Non-Brand - BP - Diesel,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924546],Paused,Non-Brand - BP - YSL,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924548],Paused,Non-Brand - Generic - Body - Phrase,20,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924549],Paused,Non-Brand - BP - Smashbox,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924550],Paused,Non-Brand - BP - Guerlain,8,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924551],Paused,Non-Brand - BP - MichaelKors,25,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924643],Paused,Non-Brand - Generic - Hair,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924644],Paused,Non-Brand - Generic - Nails,25,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924645],Paused,Non-Brand - Generic - Lips,25,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924646],Paused,Non-Brand - Generic - Fragrance,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924647],Paused,Non-Brand - Generic - Body,40,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924648],Paused,Non-Brand - Generic - Eyes,30,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924649],Paused,Non-Brand - Generic - Face,30,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924652],Paused,Non-Brand - Competitors - Sephora,25,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924653],Paused,Non-Brand - Generic - Beauty - EXA,30,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924654],Paused,Non-Brand - Generic - Makeup,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924655],Paused,Non-Brand - Generic - Gift - Sets - EXA,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[141924656],Paused,Non-Brand - Generic - Gift - Sets - PHR,15,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[142041931],Paused,Non-Brand - Generic - Beauty - BMM,30,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[142101520],Paused,Non-Brand - Black - Friday - Exact,100,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[142101521],Paused,Branded - Black - Friday - Exact,100,DailyBudgetStandard,Campaign paused,Search & content,EnhancedCpc,,1,1,100%,1.59,1.59,1
+[142101522],Paused,Branded - Cyber - Monday - Exact,100,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,3,0%,0,0,2
+[142101523],Paused,Non-Brand - Cyber - Monday - Exact,100,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[142101524],Paused,Branded - Boxing - Week - Exact,100,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[142101525],Paused,Non-Brand - Boxing - Week - Exact,100,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[142101526],Paused,Branded - Black - Friday - Phrase,100,DailyBudgetStandard,Campaign paused,Search & content,EnhancedCpc,,1,2,50%,1.38,1.38,1
+[142101527],Paused,Non-Brand - Black - Friday - Phrase,100,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[142101528],Paused,Non-Brand - Boxing - Week - Phrase,100,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[142101529],Paused,Branded - Boxing - Week - Phrase,100,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[142101530],Paused,Branded - Cyber - Monday - Phrase,100,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,1,2,50%,0.34,0.34,1
+[142101531],Paused,Non-Brand - Cyber - Monday - Phrase,100,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300004025],Enabled,Branded - French - Misspelling,7,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,0,1,0%,0,0,1
+[300004026],Enabled,Branded - Misspellings,21,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,2,2,100%,0.8,1.6,1
+[300004027],Enabled,Branded - Promos - EXA,5,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,21,47,44.68%,0.17,3.49,1
+[300004028],Paused,Non-Brand - BP - Chanel,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300007231],Paused,Non-Brand - BP - LaRochePosay,25,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300007232],Paused,Non-Brand - BP - Vichy,15,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042607],Paused,Non-Brand - BP - Elizabeth - Arden,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042608],Paused,Non-Brand - BP - Fragrance - Exact,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042609],Paused,Non-Brand - BP - Makeup - Exact,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042610],Paused,Non-Brand - BP - Hugo - Boss,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042611],Paused,Non-Brand - BP - Jean - Paul - Gaultier,20,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042612],Paused,Non-Brand - BP - Lise - Watier,8,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042613],Paused,Non-Brand - BP - St - Tropez,20,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042614],Paused,Non-Brand - BP - Narciso - Rodriguez,20,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042615],Enabled,Branded - Vendor - Brands - Exact,20,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,1,1,100%,1.35,1.35,1
+[300042616],Paused,Branded - Products - Exact,15,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042617],Paused,Non-Brand - Generic - Beauty,30,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042619],Paused,Non-Brand - BP - Fragrance - Broad,8,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042620],Paused,Branded - Internal - Brands,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042621],Paused,Non-Brand - BP - Strivectin - Phrase,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042623],Paused,Non-Brand - BP - Silkn - Exact,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042624],Paused,Non-Brand - BP - Cake - Beauty - Exact,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042625],Paused,Non-Brand - BP - Ariana - Grande,15,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042626],Paused,Non-Brand - BP - JR - Watkins -Exact,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042627],Paused,Non-Brand - BP - Estee - Lauder,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042628],Paused,Non-Brand - BP - Juicy - Couture,20,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042629],Paused,Non-Brand - BP - Donna - Karan,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042630],Paused,Non-Brand - BP - Thierry - Mugler,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042631],Paused,Non-Brand - BP - Lab - Series,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042633],Paused,Branded - Products - Phrase,40,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042634],Paused,Non-Brand - BP - Makeup - BMM,30,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042635],Paused,Non-Brand - BP - No7,8,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042636],Paused,Non-Brand - BP - Dr - Roebucks,5,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042637],Paused,Branded - Gift - Sets - Exact,50,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042638],Paused,Branded - Gift - Sets - Phrase,50,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042639],Paused,Non-Brand - BP - Urban - Decay,30,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042640],Paused,Non-Brand - Competitors - Hudsons - Bay,10,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042641],Paused,Non-Brand - Generic - Skin - Care,15,DailyBudgetStandard,Campaign paused,Search & content,ManualCpc,,0,0,0%,0,0,0
+[300042642],Enabled,Branded - Shoppers - Exact,250,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,41,65,63.08%,0.94,38.6,1
+[300042643],Enabled,Branded - Shoppers - Broad,80,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,2,11,18.18%,0.77,1.53,1
+[300042644],Enabled,Branded - FR - Pharmaprix - Broad,8,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,2,1,200%,0.06,0.12,1
+[300042645],Enabled,Branded - FR - Pharmaprix - Phrase,8,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,8,14,57.14%,0.05,0.37,1
+[300042646],Enabled,Branded - Shoppers - Phrase,75,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,0,0,0%,0,0,0
+[300042647],Enabled,Branded - FR - Pharmaprix - Exact,20,DailyBudgetStandard,Eligible,Search & content,EnhancedCpc,,5,11,45.45%,0.04,0.22,1
+[300049826],Paused,SHOPPING - Low Priority,20,DailyBudgetStandard,Campaign paused,Shopping,ManualCpc,,0,0,0%,0,0,0
+[300049827],Paused,SHOPPING - High Priority,20,DailyBudgetStandard,Campaign paused,Shopping,ManualCpc,,0,0,0%,0,0,0
+Search total,-,-,-,-,-,-,-,-,589,1073,54.89%,0.89,523.93,1.02
+Content total,-,-,-,-,-,-,-,-,0,0,0%,0,0,0
+Native total,-,-,-,-,-,-,-,-,0,0,0%,0,0,0
+Deleted items total,-,-,-,-,-,-,-,-,0,0,0%,0,0,0
+Overall total,-,-,-,-,-,-,-,-,589,1073,54.89%,0.89,523.93,1.02
