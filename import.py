@@ -1,8 +1,7 @@
 import csv
 from re import sub
 from decimal import Decimal
-from xlrd import open_workbook
-from xlutils.copy import copy
+from openpyxl import load_workbook
 
 
 google_file = open('reports/Google Adwords.csv')
@@ -50,14 +49,14 @@ clicks_col = 33
 impr_col = 37
 search_sheet = 4
 
-rb = open_workbook("reports/BeautyBoutique Paid Marketing Tracker (Dec 1, 2017).xlsx")
-wb = copy(rb)
+wb = load_workbook("reports/BeautyBoutique Paid Marketing Tracker (Dec 1, 2017).xlsx")
 
-s = wb.get_sheet(search_sheet)
-s.write(branded_row, clicks_col, summary['Branded']['clicks'])
-s.write(branded_row, impr_col, summary['Branded']['impressions'])
-s.write(branded_row, cost_col, summary['Branded']['cost'])
-s.write(non_brand_row, clicks_col, summary['Non-Brand']['clicks'])
-s.write(non_brand_row, impr_col, summary['Non-Brand']['impressions'])
-s.write(non_brand_row, cost_col, summary['Non-Brand']['cost'])
+s = wb['Search']
+s.cell(row=branded_row, column=clicks_col).value = summary['Branded']['clicks']
+s.cell(row=branded_row, column=impr_col).value = summary['Branded']['impressions']
+s.cell(row=branded_row, column=cost_col).value = summary['Branded']['cost']
+s.cell(row=non_brand_row, column=clicks_col).value = summary['Non-Brand']['clicks']
+s.cell(row=non_brand_row, column=impr_col).value = summary['Non-Brand']['impressions']
+s.cell(row=non_brand_row, column=cost_col).value = summary['Non-Brand']['cost']
+
 wb.save('names.xlsx')
