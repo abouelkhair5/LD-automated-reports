@@ -1,3 +1,5 @@
 *.csv
 *.xlsx
+build/
+dist/
 reports/
